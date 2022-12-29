@@ -1,5 +1,3 @@
--- TITLE INSERTER
-
 local TI_LinesAfter = 2
 local TI_Uppercase = true
 
