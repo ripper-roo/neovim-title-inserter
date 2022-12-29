@@ -8,7 +8,7 @@ The opened files will be automatically written to the filesystem. You can remove
 
 ## Installation
 
-Just copy the code to your `init.vim` or `init.lua` config file. If you're using the first option, remember to enclose the Lua code around Vimscript's `lua-heredoc` sintax:
+Just copy the code to your `init.vim` or `init.lua` config file. If you're using the first option, remember to enclose the Lua code around Vimscript `lua-heredoc` syntax:
 
     lua << EOF
         " put code here
